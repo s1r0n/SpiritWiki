@@ -4,7 +4,7 @@ parent: Assets
 order: 1
 ---
 
-# Support the SpiritWiki: Building the Knowledge Foundation for full Human Flourishing
+## Support the SpiritWiki: Building the Knowledge Foundation for full Human Flourishing
 
 We live in an age of information overload yet profound wisdom scarcity. While the internet overflows with sociological, psychological, and spiritual content, most remains fragmented, contaminated by elite ideologies, or obscured by intentionally confusing nomenclature. The SpiritWiki was created to solve this crisis.
 
