@@ -1,5 +1,5 @@
 ---
-layout: parent
+layout: page
 title: Assets
 ---
 
