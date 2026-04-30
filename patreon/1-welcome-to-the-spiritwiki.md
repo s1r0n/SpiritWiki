@@ -1,10 +1,8 @@
 ---
 title: "Welcome to the SpiritWiki"
-parent: "assets"
+parent: Assets
 order: 1
 ---
-# Welcome to the SpiritWiki
-
 
 # Support the SpiritWiki: Building the Knowledge Foundation for full Human Flourishing
 
