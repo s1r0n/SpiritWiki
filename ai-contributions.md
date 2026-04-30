@@ -1,7 +1,6 @@
 ---
 layout: page
 title: AI Contributions 
-parent: Assets
 order: 7
 ---
 
