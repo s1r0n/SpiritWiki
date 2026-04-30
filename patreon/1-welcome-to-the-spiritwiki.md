@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Welcome to the SpiritWiki"
 parent: Assets
 order: 1
