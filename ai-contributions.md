@@ -2,7 +2,7 @@
 layout: page
 title: AI Contributions 
 parent: Assets
-order: 5
+order: 7
 ---
 
 ## AI Contributions to the SpiritWiki
