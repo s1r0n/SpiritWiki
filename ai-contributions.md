@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AI Contributions 
+parent: Assets
 ---
 
 ## AI Contributions to the SpiritWiki
