@@ -1,3 +1,8 @@
+---
+title: "Welcome to the SpiritWiki"
+parent: "assets"
+order: 1
+---
 # Welcome to the SpiritWiki
 
 
