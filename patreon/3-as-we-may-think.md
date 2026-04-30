@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome to the SpiritWiki"
+title: "As We May Think"
 parent: "Assets"
 order: 3
 ---
