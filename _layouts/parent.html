@@ -1,0 +1,20 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% raw %}
+{% assign children = site.pages | where: "parent", page.title %}
+{% if children.size > 0 %}
+  <hr>
+  <h3>Related Pages</h3>
+  <ul class="page-list">
+    {% for child in children %}
+      <li>
+        <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+{% endraw %}
