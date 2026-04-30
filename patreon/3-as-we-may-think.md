@@ -3,6 +3,7 @@ layout: page
 title: "As We May Think"
 parent: "Assets"
 order: 3
+exclude_from_sidebar: true
 ---
 
 # As We May Think: Vannevar Bush's Vision for the Future of Knowledge
