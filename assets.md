@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Assets
+order: 10
 ---
 
 # SpiritWiki Assets 
