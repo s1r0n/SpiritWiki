@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "What is a Knowledge System"
 parent: Assets
 order: 2
