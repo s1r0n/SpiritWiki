@@ -1,3 +1,9 @@
+---
+title: "What is a Knowledge System"
+parent: "Assets"
+order: 2
+---
+
 # What is a Knowledge System?
 
 A knowledge system is a component of a society’s [Epistemic Infrastructure](https://spiritwiki.lightningpath.org/index.php/Epistemic_Infrastructure). Specifically, it is a structured, dynamic, and transdisciplinary architecture for the production, organization, storage, validation, and dissemination of knowledge. A knowledge system encompasses the semantic, ontological, and procedural mechanisms by which advanced societies manage understanding and regulate access to truth claims. Knowledge systems are built upon advanced [Knowledge Technology](https://spiritwiki.lightningpath.org/index.php/Knowledge_Technology) (Nakamori, 2021). They are initiated, developed, and maintained by committed [Knowledge Stewards](https://spiritwiki.lightningpath.org/index.php/Knowledge_Steward).
