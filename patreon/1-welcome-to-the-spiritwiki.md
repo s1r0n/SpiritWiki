@@ -3,6 +3,7 @@ layout: page
 title: "Welcome to the SpiritWiki"
 parent: Assets
 order: 1
+exclude_from_sidebar: true
 ---
 
 ## Support the SpiritWiki: Building the Knowledge Foundation for full Human Flourishing
