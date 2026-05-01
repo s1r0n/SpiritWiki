@@ -4,6 +4,7 @@ title: "Welcome to the SpiritWiki"
 parent: Assets
 order: 1
 exclude_from_sidebar: true
+description: "Introduction to the SpiritWiki and appeal for support" 
 ---
  
 ## Support the SpiritWiki: Building the Knowledge Foundation for full Human Flourishing
