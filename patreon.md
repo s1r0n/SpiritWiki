@@ -4,13 +4,6 @@ title: Patreon Posts
 order: 8
 ---
 
-# Patreon Posts 
-
----
-layout: page
-title: Patreon Content
----
-
 {% comment %} Gather pages whose path contains 'patreon/' {% endcomment %}
 {% assign patreon_pages = site.pages | where_exp: "item", "item.path contains 'patreon/'" %}
 
