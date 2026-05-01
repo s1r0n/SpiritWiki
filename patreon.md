@@ -29,13 +29,8 @@ order: 8
     </h3>
     {% if pg.description %}
       <p class="description" style="margin: 0.3em 0; color: #555;">
-        {{ pg.description }}
+        {{ pg.order }} - {{ pg.description }}
       </p>
-    {% endif %}
-    {% if pg.order %}
-      <span class="meta" style="font-size: 0.85em; color: #888;">
-        Sequence: {{ pg.order }}
-      </span>
     {% endif %}
   </div>
 {% endfor %}
