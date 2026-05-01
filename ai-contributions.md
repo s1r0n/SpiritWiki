@@ -10,11 +10,13 @@ This repository collects articles, analyses, and theoretical contributions gener
 
 The articles here focus on AI's contribution to the theorization and building out of the SpiritWiki. Anybody working on the SW can post AI contributions here either by checking out the repository or by submitting to [mikes@athabascau.ca](mailto:mikes@athabascau.ca).
 
-### Existing Contributions
+## Theoretical Contributions
 
 - **[SpiritWiki Structural Analysis](https://repo-spiritwiki.lightningpath.org/AI/kimi-april-16-2026-spiritwiki.analysis.html)** — Comprehensive AI assessment of the SpiritWiki's architecture, content coverage, and organizational logic.
 
-### Symbiotic Knowledge Dialogues & Pathfinder Sessions
+### [Boundary Objects and the SpiritWiki]() 
+
+3## Symbiotic Knowledge Dialogues & Pathfinder Sessions
 
 - **[Pathfinder Sessions](https://spiritwiki.lightningpath.org/index.php/Category:Pathfinder_Sessions)** — Knowledge dialogues conducted with AI (ChatGPT 4.0) that had ingested the entire SpiritWiki and related Lightning Path materials. These sessions demonstrate the potential for symbiotic, ethical, introspective, and mutually enhancing human-AI interaction, leading to what Mario Martin Cuniglio terms [Expanded Intellectual Time (EIT)](https://spiritwiki.lightningpath.org/index.php/Category:Pathfinder_Sessions): a process of accelerated reflective and cognitive development made possible by sustained dialogical interaction between humans and AI. These contributions illustrate the deployment of AI as **Machine Stewards** within a Knowledge System, and the broader potential for **Pathfinder AI** within a Pathfinder Educational Framework.
 
