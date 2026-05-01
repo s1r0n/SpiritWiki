@@ -29,7 +29,7 @@ order: 8
     </h3>
     {% if pg.description %}
       <p class="description" style="margin: 0.3em 0; color: #555;">
-        {{ pg.order }} - {{ pg.description }}
+        {{ pg.description }}
       </p>
     {% endif %}
   </div>
