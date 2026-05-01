@@ -6,7 +6,7 @@ order: 3
 exclude_from_sidebar: true
 ---
 
-# As We May Think: Vannevar Bush's Vision for the Future of Knowledge
+## Vannevar Bush's Vision for the Future of Knowledge
 
 In July 1945, as World War II drew to a close, Vannevar Bush published "As We May Think" (included at the end of this article) in *The Atlantic Monthly*, offering scientists a new mission. As director of the Office of Scientific Research and Development, Bush had coordinated 6,000 American scientists in creating weapons of war. Now he posed a pressing question: what should these researchers do when peace returns? His answer was transformative—scientists must redirect their talents from instruments of destruction to tools that expand human intellect.
 
