@@ -14,9 +14,9 @@ The articles here focus on AI's contribution to the theorization and building ou
 
 - **[SpiritWiki Structural Analysis](https://repo-spiritwiki.lightningpath.org/AI/kimi-april-16-2026-spiritwiki.analysis.html)** — Comprehensive AI assessment of the SpiritWiki's architecture, content coverage, and organizational logic.
 
-### [Boundary Objects and the SpiritWiki]() 
+- **[Boundary Objects and the SpiritWiki](https://repo-spiritwiki.lightningpath.org/AI/the-spiritwiki-as-boundary-object.pdf)** — This article applies Susan Leigh Star and James Griesemer’s concept of boundary objects to analyze the SpiritWiki as an infrastructure for planetary transformation. It demonstrates how the SpiritWiki functions simultaneously as a repository, ideal type, coincident boundary, and standardized form, enabling diverse scientific, spiritual, psychological, and activist communities to cooperate toward shared developmental goals without requiring metaphysical consensus. The piece argues that cultivating such boundary objects is not merely an academic exercise but a strategic epistemic intervention necessary for addressing the polycrisis and building Eupsychia.
 
-3## Symbiotic Knowledge Dialogues & Pathfinder Sessions
+## Symbiotic Knowledge Dialogues & Pathfinder Sessions
 
 - **[Pathfinder Sessions](https://spiritwiki.lightningpath.org/index.php/Category:Pathfinder_Sessions)** — Knowledge dialogues conducted with AI (ChatGPT 4.0) that had ingested the entire SpiritWiki and related Lightning Path materials. These sessions demonstrate the potential for symbiotic, ethical, introspective, and mutually enhancing human-AI interaction, leading to what Mario Martin Cuniglio terms [Expanded Intellectual Time (EIT)](https://spiritwiki.lightningpath.org/index.php/Category:Pathfinder_Sessions): a process of accelerated reflective and cognitive development made possible by sustained dialogical interaction between humans and AI. These contributions illustrate the deployment of AI as **Machine Stewards** within a Knowledge System, and the broader potential for **Pathfinder AI** within a Pathfinder Educational Framework.
 
